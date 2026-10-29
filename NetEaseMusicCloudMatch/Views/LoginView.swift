@@ -17,7 +17,7 @@ struct LoginView: View {
                         .underline() // 可选：加下划线，突出超链接感
                     Spacer()
                     Button(action: {
-                        if let url = URL(string: "https://github.com/zhioak/NetEaseMusicCloudMatch") {
+                        if let url = URL(string: "https://github.com/joeyee233/NetEaseMusicCloudMatch") {
                             NSWorkspace.shared.open(url)
                         }
                     }) {

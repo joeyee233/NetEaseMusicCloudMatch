@@ -44,7 +44,7 @@ Cookie登录完成后展示云盘信息
 
 ### License
 
-[MIT](https://github.com/zhioak/NetEaseMusicCloudMatch/blob/main/LICENSE)
+[MIT](https://github.com/joeyee233/NetEaseMusicCloudMatch/blob/main/LICENSE)
 
 ### 特别鸣谢
 
