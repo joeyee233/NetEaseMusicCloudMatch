@@ -1,5 +1,5 @@
 <p align="center">
-<img height="256" src="https://raw.githubusercontent.com/zhiozhou/pics/master/picgo/2024-11%2FNetEaseMusicCloudMatchLogo-56ce69.png">
+<img height="256" src="https://raw.githubusercontent.com/joeyee233/imgbed/main/202411/NetEaseMusicCloudMatch-logo.png">
 </p>
 
 <h1 align="center">NetEaseMusicCloudMatch</h1>
@@ -8,25 +8,25 @@
 
 ### 上手指南
 
-进入[Releases页面](https://github.com/zhiozhou/NetEaseMusicCloudMatch/releases)下载最新版本并安装，打开NetEaseMusicCloudMatch
+进入[Releases页面](https://github.com/joeyee233/NetEaseMusicCloudMatch/releases)下载最新版本并安装，打开NetEaseMusicCloudMatch
 
-![Preview](https://raw.githubusercontent.com/zhioak/pics/master/picgo/2025-09%2FiShot_2025-09-09_16.43.44-625179.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/imgbed/main/202509/NetEaseMusicCloudMatch-step-cookie-1.png)
 
 点击蓝色链接跳转网易云音乐网页版，按F12打开浏览器控制台，切换到Network（网络）后，进行登录
 
-![Preview](https://raw.githubusercontent.com/zhioak/pics/master/picgo/2025-09%2FiShot_2025-09-09_16.28.37-dbdacf.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/imgbed/main/202509/NetEaseMusicCloudMatch-step-cookie-2.png)
 
 登录成功后的网络请求都会携带登录Cookie，随便选一个登录后的网络请求，复制请求头的Cookie
 
-![Preview](https://raw.githubusercontent.com/zhioak/pics/master/picgo/2025-09%2FiShot_2025-09-09_16.30.21-27ba8c.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/imgbed/main/202509/NetEaseMusicCloudMatch-step-cookie-3.png)
 
 将Cookie粘贴到输入框，点击`Cookie登录`
 
-![Preview](https://raw.githubusercontent.com/zhioak/pics/master/picgo/2025-09%2FiShot_2025-09-09_16.43.54-79260a.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/imgbed/main/202509/NetEaseMusicCloudMatch-step-cookie-4.png)
 
 Cookie登录完成后展示云盘信息
 
-![Preview](https://raw.githubusercontent.com/zhiozhou/pics/master/picgo/2024-11%2FNetEaseMusicCloudMatch-step-1-a6b946.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/imgbed/main/202411/NetEaseMusicCloudMatch-step-1.png)
 
 选中歌曲后，输入需要匹配的歌曲ID
 
@@ -36,11 +36,11 @@ Cookie登录完成后展示云盘信息
 > - 点击对应歌曲进入详情页面，查看网页地址，如：`https://music.163.com/#/song?id=194769`
 > - 194769就是该歌曲的歌曲ID
 
-![Preview](https://raw.githubusercontent.com/zhiozhou/pics/master/picgo/2024-11%2FNetEaseMusicCloudMatch-step-2-0a2a40.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/imgbed/main/202411/NetEaseMusicCloudMatch-step-2.png)
 
 歌曲ID输入完成后，进行回车，查看日志输出匹配结果
 
-![Preview](https://raw.githubusercontent.com/zhiozhou/pics/master/picgo/2024-11%2FNetEaseMusicCloudMatch-step-3-ad85fc.png)
+![Preview](https://raw.githubusercontent.com/joeyee233/imgbed/main/202411/NetEaseMusicCloudMatch-step-3.png)
 
 ### License
 
